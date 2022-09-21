@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\1365415823d74dcaf7402009f1f75554\\transformed\\jetified-play-services-base-18.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\1365415823d74dcaf7402009f1f75554\\transformed\\jetified-play-services-base-18.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\1365415823d74dcaf7402009f1f75554\\transformed\\jetified-play-services-base-18.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

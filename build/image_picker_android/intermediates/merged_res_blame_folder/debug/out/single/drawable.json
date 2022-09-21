@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\c8c79559ed3b395ca0f8b86da9674abc\\transformed\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\c8c79559ed3b395ca0f8b86da9674abc\\transformed\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\c8c79559ed3b395ca0f8b86da9674abc\\transformed\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\c8c79559ed3b395ca0f8b86da9674abc\\transformed\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

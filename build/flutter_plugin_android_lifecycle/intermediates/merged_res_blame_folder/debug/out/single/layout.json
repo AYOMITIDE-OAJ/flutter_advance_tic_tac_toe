@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\19c0421ad42347cda4a0603e08285bef\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\19c0421ad42347cda4a0603e08285bef\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\19c0421ad42347cda4a0603e08285bef\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\19c0421ad42347cda4a0603e08285bef\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\19c0421ad42347cda4a0603e08285bef\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\19c0421ad42347cda4a0603e08285bef\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e15ae32b44a6ae2bffd9e2921756288c\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e15ae32b44a6ae2bffd9e2921756288c\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Documents\\mobile projects\\tictactoe-\\tictactoe\\TicTacToe SourceCode\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e15ae32b44a6ae2bffd9e2921756288c\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]
